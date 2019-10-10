@@ -85,3 +85,8 @@ https://blog.csdn.net/weixin_44893585/article/details/94583069  //c++指针数组，i
 https://www.cnblogs.com/jiaoyu121/p/6965230.html  //javascript思维导图
 https://blog.csdn.net/qq_37699336/article/details/78524890 //虚函数与纯虚函数的区别
 https://www.runoob.com/cplusplus/cpp-interfaces.html  //C++ 接口（抽象类）
+https://blog.csdn.net/seadplus/article/details/7802346 //C++中文件流(fstream)的使用方法及示例
+https://blog.csdn.net/qq_37503115/article/details/79376743  //C++对文件的操作（新手入门）
+https://blog.csdn.net/zichen_ziqi/article/details/80819939  //C++数据结构——队列    *************************************************************************
+https://blog.csdn.net/ZHLZYF/article/details/83280481  //c++中队列函数queue的常用
+https://blog.csdn.net/ouyangfushu/article/details/80199140 //c++类内类外创建常用thread
