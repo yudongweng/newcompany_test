@@ -1,0 +1,87 @@
+https://www.cnblogs.com/houjun/p/4802193.html  多线程管理，线程池的实现
+https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html vector介绍
+https://blog.csdn.net/weibo1230123/article/details/79116016 qt多窗口数据传递
+https://www.cnblogs.com/lsgxeva/p/7808906.html  //信号与槽函数
+https://blog.csdn.net/weibo1230123/article/details/79116016  //窗体间传递数据
+https://blog.csdn.net/coldplayplay/article/details/78566151  //主窗口按钮，弹出自定义窗口
+https://www.cnblogs.com/lsgxeva/p/7808906.html         //主副窗口来回切换
+https://www.cnblogs.com/katachi/p/9005767.html     //ui和this的联系与区别
+https://blog.csdn.net/caomin1hao/article/details/81202474  //openCV rectangle函数
+https://blog.csdn.net/xgbing/article/details/7766476    //qt linEidit、label类
+https://blog.csdn.net/qq_28351609/article/details/88818337  //qt 滑动条之Slider
+https://www.cnblogs.com/SoulReaper/p/3309757.html   //qt spinbox初级成员函数
+https://blog.csdn.net/seanwang_25/article/details/18667871 //Qt中在QLabel上载入图片后在上面画矩形框的方法
+https://blog.csdn.net/xiaoshidiaodejiyi/article/details/82417497  //QT Slider样式
+https://bbs.csdn.net/topics/391001685?page=1   //qt 字体翻转
+https://blog.csdn.net/rl529014/article/details/52869945  //Qt：图片翻转（水平、垂直、顺时针、逆时针）
+https://blog.csdn.net/li491093957/article/details/53291731 //QT高级UI篇重写自己想要的控件以QLabel为列实现旋转，放大，缩小
+https://blog.csdn.net/qq_24282081/article/details/88759610  //利用Qt视图场景类编写的可在二维、三维控件旋转、放大、缩小的例子
+https://www.runoob.com/cplusplus/cpp-overloading.html   //C++ 重载运算符和重载函数
+https://blog.csdn.net/YinJianxiang/article/details/76114505  //c++ Count函数
+https://blog.51cto.com/12810168/2093494 //QT登录对话框
+https://blog.csdn.net/lovebird_27/article/details/49255715 //QT关闭界面事件
+http://blog.sina.com.cn/s/blog_61cc743001018hny.html    //平面度计算方法
+https://wenku.baidu.com/view/b40b904e767f5acfa1c7cd1b.html?sxts=1565751856085  //贝塞尔公式
+https://blog.csdn.net/naibozhuan3744/article/details/81174681 //QT多线程
+https://jingyan.baidu.com/article/ed15cb1bbbe05f1be36981ba.html //子线程定时器
+https://blog.csdn.net/naibozhuan3744/article/details/81201502 //Qt5.9继承QObject创建多线程实例
+https://blog.csdn.net/u010779194/article/details/9075309/  //QTextBrowser的一些设置
+https://blog.csdn.net/CLinuxF/article/details/78948983  //QT输出日志
+https://blog.csdn.net/u014597198/article/details/78675246 //两种方法输出日志
+https://blog.csdn.net/yuyefuxiao521/article/details/62885100 //qt输出日志详解
+https://blog.csdn.net/gxx_csdn/article/details/78905231 //码云gitee使用方法
+https://blog.csdn.net/wx145/article/details/84291390 //码云gitee使用方法
+https://blog.csdn.net/qq_37233607/article/details/78160822 //Qt学习:QLabel的用法及其程序示例
+https://blog.51cto.com/alongsxmx/1905335 //QT动态删除控件
+https://blog.csdn.net/weixin_38293850/article/details/80251446 //QT获取子控件的方法小结
+https://www.cnblogs.com/Bonker/p/3454956.html //layout布局使用方法
+https://blog.csdn.net/HB_Programmer/article/details/81703097 //QT QQueue的使用方法
+https://blog.csdn.net/taiyang1987912/article/details/38301169  //QT之文件操作
+https://blog.csdn.net/taiyang1987912/article/details/29271549 //QT之内存泄漏
+https://blog.csdn.net/taiyang1987912/article/details/50351827 //C++中的容器类详解
+https://blog.csdn.net/taiyang1987912/article/details/80474740  //QT之EXCEL使用
+https://www.cnblogs.com/yiven/p/8465054.html  //入门级码云教程
+https://blog.csdn.net/lovebird_27/article/details/49255715 //Qt5窗口关闭与窗口销毁
+https://blog.csdn.net/komtao520/article/details/80351190 //QT中关闭应用程序和窗口的函数（quit()，exit()以及close()的区别）
+https://blog.csdn.net/caoshangpa/article/details/50893772 //QT如何使用Sleep函数
+https://blog.csdn.net/qq78442761/article/details/81124375 //Qt开启本地事件循环（防止界面卡阻塞【卡死】）QEventLoop 的基本使用
+https://blog.csdn.net/amnes1a/article/details/68957112	//Qt中的JSON操作
+https://blog.csdn.net/Amnes1a/article/details/66478376  //Qt中的常用容器类
+https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html //C++ vector 容器浅析
+https://blog.csdn.net/wkq0825/article/details/82255984  //C++ vector的用法（整理）
+https://blog.csdn.net/duan19920101/article/details/50617190  //C++ 中vector的使用方法
+https://blog.csdn.net/leoeitail/article/details/74674568 //QT QMap 使用方法实例
+https://www.cnblogs.com/omelet/p/6617362.html //QT QMap 使用方法实例
+https://blog.csdn.net/youshijian99/article/details/79679783 //VS C++ 线程篇之一创建线程
+https://www.jb51.net/article/151420.htm //C++多线程中的锁和条件变量使用教程
+https://segmentfault.com/a/1190000016201729 //[c++11]多线程编程(三)——竞争条件与互斥锁
+https://blog.csdn.net/sevenchrist/article/details/52128182 //VS2013添加使用lib的方法
+https://www.cnblogs.com/yanwenxiong/p/5011383.html  //VS中工程的“依赖”，“库目录”，“包含目录”
+https://blog.csdn.net/qq_25188995/article/details/81490081 //Qtcreator opencv 显示图片
+https://www.yangshengliang.com/os/windows-ji-qiao/1424.html  //google chrome 浏览器主页被2345劫持怎么办?不是卸载 彻底解决(其他浏览器也有效)
+https://zhidao.baidu.com/question/537193960.html //平面度与翘曲度的测量方法是什么？区别点是什么？
+http://www.doc88.com/p-0813825047327.html  //翘曲度测量方法
+http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jlxb98201303005 //基板玻璃翘曲度的精密随动测量技术
+https://wenku.baidu.com/view/83f12d13a0116c175f0e48cc.html //一种高效的PCB测量方法
+https://blog.csdn.net/shenziheng1/article/details/54410816 //贝塞尔曲线拟合原理
+http://www.doc88.com/p-3804861770129.html  //拟合阶次对基于多项式拟合的相位-高度映射关系的影响
+http://www.360doc.com/content/18/0706/10/15930282_768242401.shtml //如何理解最小二乘法
+https://www.cnblogs.com/mlh1421/p/7ee6796ea67cc46b2504eb5a88613ed9.html //git多个文件的介绍
+https://www.cnblogs.com/roadofstudy/p/7660583.html  //上传本地文件到github仓库基本操作
+https://blog.csdn.net/u012915636/article/details/81978140 //void operator()() const 的编程实践
+https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL 创建线程的三种方式
+https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT多线程—主界面卡死解决方案
+https://blog.csdn.net/linraise/article/details/41318261 //VS2013添加依赖项
+https://www.runoob.com/cplusplus/cpp-preprocessor.html //c++预处理器
+https://blog.csdn.net/lyztyycode/article/details/81326699 //c++虚函数详解（你肯定懂了）
+https://blog.csdn.net/qq_28234213/article/details/72853797 //C++虚函数实现多态
+https://www.cnblogs.com/mingzhang/p/10965691.html  //数据段、代码段、堆栈段、BSS段的区别
+https://blog.csdn.net/coolwriter/article/details/79883253 //C++多线程（一）thread类
+https://blog.csdn.net/sky_miange/article/details/68067989 //换电脑/系统后,,如何同步github上原有的项目呢?...linux下...
+https://blog.csdn.net/qq_40416052/article/details/82493916 //【C++】动态内存分配详解（new/new[]和delete/delete[]）
+https://blog.csdn.net/Up_junior/article/details/100517008 //C++虚函数
+https://blog.csdn.net/qq_40416052/article/details/82493916 //【C++】动态内存分配详解（new/new[]和delete/delete[]）
+https://blog.csdn.net/weixin_44893585/article/details/94583069  //c++指针数组，int *，char *，string *
+https://www.cnblogs.com/jiaoyu121/p/6965230.html  //javascript思维导图
+https://blog.csdn.net/qq_37699336/article/details/78524890 //虚函数与纯虚函数的区别
+https://www.runoob.com/cplusplus/cpp-interfaces.html  //C++ 接口（抽象类）
