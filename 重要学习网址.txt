@@ -90,3 +90,8 @@ https://blog.csdn.net/qq_37503115/article/details/79376743  //C++¶ÔÎÄ¼şµÄ²Ù×÷£¨Ğ
 https://blog.csdn.net/zichen_ziqi/article/details/80819939  //C++Êı¾İ½á¹¹¡ª¡ª¶ÓÁĞ    *************************************************************************
 https://blog.csdn.net/ZHLZYF/article/details/83280481  //c++ÖĞ¶ÓÁĞº¯ÊıqueueµÄ³£ÓÃ
 https://blog.csdn.net/ouyangfushu/article/details/80199140 //c++ÀàÄÚÀàÍâ´´½¨³£ÓÃthread
+https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html  //C++ vector ÈİÆ÷Ç³Îö
+https://blog.csdn.net/jisuanji12306/article/details/86363390 //Ïß³Ì¼äÍ¨ĞÅµÄ¼¸ÖÖÊµÏÖ·½Ê½
+https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·½Ê½
+https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html  //C++ vector ÈİÆ÷Ç³Îö
+https://blog.csdn.net/chengqiuming/article/details/89784641  //C++µÄvector½éÉÜ
