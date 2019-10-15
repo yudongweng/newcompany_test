@@ -92,7 +92,7 @@ https://blog.csdn.net/ZHLZYF/article/details/83280481  //c++ÖĞ¶ÓÁĞº¯ÊıqueueµÄ³£Ó
 https://blog.csdn.net/ouyangfushu/article/details/80199140 //c++ÀàÄÚÀàÍâ´´½¨³£ÓÃthread
 https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html  //C++ vector ÈİÆ÷Ç³Îö
 https://blog.csdn.net/jisuanji12306/article/details/86363390 //Ïß³Ì¼äÍ¨ĞÅµÄ¼¸ÖÖÊµÏÖ·½Ê½
-https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·½Ê½
+https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·½Ê½  *********
 https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html  //C++ vector ÈİÆ÷Ç³Îö
 https://blog.csdn.net/chengqiuming/article/details/89784641  //C++µÄvector½éÉÜ
 https://blog.csdn.net/ouyangfushu/article/details/80199140  //C++¶àÏß³ÌÀàThread£¨C++11£©********************************************************************
@@ -103,4 +103,6 @@ https://blog.csdn.net/jiange_zh/article/details/79356417 //C++11³£ÓÃĞÂÌØĞÔ¿ìËÙÒ»
 https://blog.csdn.net/lv0918_qian/article/details/81745723  //C++11²¢·¢±à³Ì-Ìõ¼ş±äÁ¿(condition_variable)Ïê½â
 https://blog.csdn.net/chicaidecaiji/article/details/80936471  //Ê¹ÓÃc++11,ÊµÏÖÒ»¸öÉú²úÕß-Ïû·ÑÕßÄ£ĞÍ
 https://blog.csdn.net/weixin_33910434/article/details/93761742  //C++11 ²¢·¢Ö¸ÄÏ¾Å(×ÛºÏÔËÓÃ: C++11 ¶àÏß³ÌÏÂÉú²úÕßÏû·ÑÕßÄ£ĞÍÏê½â)
-http://c.biancheng.net/view/182.html  //continueºÍbreakµÄÇø±ğ
+http://c.biancheng.net/view/182.html   //continueºÍbreakµÄÇø±ğ
+https://blog.csdn.net/ttomchy/article/details/70147866  //C++ std::thread ¼òµ¥µÄÉú²úÕßºÍÏû·ÑÕß
+https://blog.csdn.net/MOU_IT/article/details/88712090  //C++ÊµÏÖÏß³Ì³Ø
