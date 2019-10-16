@@ -106,3 +106,6 @@ https://blog.csdn.net/weixin_33910434/article/details/93761742  //C++11 并发指南
 http://c.biancheng.net/view/182.html   //continue和break的区别
 https://blog.csdn.net/ttomchy/article/details/70147866  //C++ std::thread 简单的生产者和消费者   **************************************************************
 https://blog.csdn.net/MOU_IT/article/details/88712090  //C++实现线程池
+https://blog.csdn.net/ttomchy/article/details/70147866   //C++ std::thread 简单的生产者和消费者 ****************************************
+https://blog.csdn.net/ouyangfushu/article/details/80199140  //C++多线程类Thread（C++11）  *************************
+http://c.biancheng.net/view/320.html	//C++类模板（模板类）详解**************************
