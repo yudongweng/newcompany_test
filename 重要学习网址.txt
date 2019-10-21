@@ -109,3 +109,8 @@ https://blog.csdn.net/MOU_IT/article/details/88712090  //C++实现线程池
 https://blog.csdn.net/ttomchy/article/details/70147866   //C++ std::thread 简单的生产者和消费者 ****************************************
 https://blog.csdn.net/ouyangfushu/article/details/80199140  //C++多线程类Thread（C++11）  *************************
 http://c.biancheng.net/view/320.html	//C++类模板（模板类）详解**************************
+https://blog.csdn.net/baidu_31437863/article/details/85314035  //C/C++ fstream
+https://blog.csdn.net/liitdar/article/details/81145791  //C++中整型转换为字符串类型
+https://blog.csdn.net/Haiqiang1995/article/details/90143518 //C++中计时器的用法
+https://blog.csdn.net/qq_27489699/article/details/79053441  //C++计时函数clock()
+https://blog.csdn.net/qq_42189368/article/details/80567266  //C/C++获取当前系统时间的方法
