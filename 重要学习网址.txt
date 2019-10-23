@@ -114,3 +114,10 @@ https://blog.csdn.net/liitdar/article/details/81145791  //C++ÖĞÕûĞÍ×ª»»Îª×Ö·û´®À
 https://blog.csdn.net/Haiqiang1995/article/details/90143518 //C++ÖĞ¼ÆÊ±Æ÷µÄÓÃ·¨
 https://blog.csdn.net/qq_27489699/article/details/79053441  //C++¼ÆÊ±º¯Êıclock()
 https://blog.csdn.net/qq_42189368/article/details/80567266  //C/C++»ñÈ¡µ±Ç°ÏµÍ³Ê±¼äµÄ·½·¨
+https://blog.csdn.net/yz930618/article/details/88743340  //C++¶àÏß³Ì¹ÜÀíÊµ²Ù
+https://blog.csdn.net/qq_43710979/article/details/88030147  //CÓïÑÔÖ¸Õëº¯ÊıºÍº¯ÊıÖ¸ÕëÇø±ğ
+https://www.jb51.net/article/153218.htm  //C++ÖĞÖ¸Õëº¯ÊıÓëº¯ÊıÖ¸ÕëµÄÊ¹ÓÃ
+https://blog.csdn.net/weixin_43334745/article/details/82939890  //¡¾CÑ§Ï°±Ê¼Ç¡¿Ç¿´óµÄ void * Ö¸Õë£¬Ö¸ÏòÈÎÒâº¯Êı²¢µ÷ÓÃ¸Ãº¯Êı£¡
+https://blog.csdn.net/qq_37050329/article/details/86572772   //voidÖ¸Õë(void *µÄÓÃ·¨)
+https://blog.csdn.net/autoliuweijie/article/details/50965772  //c++ÖĞ void*µÄÊ¹ÓÃ
+https://www.runoob.com/w3cnote/cpp-std-thread.html  //C++ std::thread
