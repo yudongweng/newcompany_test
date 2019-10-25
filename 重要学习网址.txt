@@ -121,3 +121,9 @@ https://blog.csdn.net/weixin_43334745/article/details/82939890  //¡¾CÑ§Ï°±Ê¼Ç¡¿Ç
 https://blog.csdn.net/qq_37050329/article/details/86572772   //voidÖ¸Õë(void *µÄÓÃ·¨)
 https://blog.csdn.net/autoliuweijie/article/details/50965772  //c++ÖĞ void*µÄÊ¹ÓÃ
 https://www.runoob.com/w3cnote/cpp-std-thread.html  //C++ std::thread
+https://blog.csdn.net/u012507022/article/details/85946196  //C++11¶àÏß³Ì Ìõ¼ş±äÁ¿condition_variable    ************
+https://blog.csdn.net/m0_37621078/article/details/88608675  //C++¶àÏß³Ì²¢·¢£¨Ò»£©---Ïß³Ì¹ÜÀí
+https://blog.csdn.net/m0_37621078/article/details/88628916  //C++¶àÏß³Ì²¢·¢£¨¶ş£©---Ïß³ÌÍ¬²½Ö®»¥³âËø
+https://blog.csdn.net/Mona_Zhao/article/details/81866858    //QTÖĞjsonÎÄ¼şµÄÉú³ÉÓë±£´æ
+https://blog.csdn.net/hp_cpp/article/details/80338116  //Qt5 ÀûÓÃQJson´ÓÎÄ¼ş¶ÁÈ¡Json²¢½âÎö    *******
+https://blog.csdn.net/jiangcheng817/article/details/81326666  //Linux(Ubantu°æ±¾) ³£ÓÃÃüÁî
