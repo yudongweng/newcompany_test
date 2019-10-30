@@ -139,4 +139,7 @@ https://blog.csdn.net/kh766200466/article/details/91356092  //ubuntu 系统备份  *
 https://www.cnblogs.com/masbay/p/10745170.html   //windows10安装ubuntu双系统教程（绝对史上最详细）
 https://blog.csdn.net/weixin_42990789/article/details/84675710  //Ubuntu系统下卸载软件
 https://www.cnblogs.com/xiumuzidiao/p/10739171.html  //Ubuntu如何挂载U盘
-https://blog.csdn.net/u012104219/article/details/79125771 //带你玩转Linux命令行（基础入门篇）
+https://blog.csdn.net/u012104219/article/details/79125771 //带你玩转Linux命令行（基础入门篇）****
+https://man.linuxde.net  //Linux命令大全
+https://www.runoob.com/linux/linux-command-manual.html  //Linux 命令大全
+https://www.cnblogs.com/luotingliang/p/7251496.html    //Ubuntu 下如何查看已安装的软件
