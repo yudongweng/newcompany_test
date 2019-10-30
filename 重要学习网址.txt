@@ -127,3 +127,14 @@ https://blog.csdn.net/m0_37621078/article/details/88628916  //C++¶àÏß³Ì²¢·¢£¨¶ş£
 https://blog.csdn.net/Mona_Zhao/article/details/81866858    //QTÖĞjsonÎÄ¼şµÄÉú³ÉÓë±£´æ
 https://blog.csdn.net/hp_cpp/article/details/80338116  //Qt5 ÀûÓÃQJson´ÓÎÄ¼ş¶ÁÈ¡Json²¢½âÎö    *******
 https://blog.csdn.net/jiangcheng817/article/details/81326666  //Linux(Ubantu°æ±¾) ³£ÓÃÃüÁî
+https://blog.csdn.net/qq_35523593/article/details/78545530   //UbuntuÏµÍ³±¸·İºÍ»¹Ô­£¬´Ó´Ë±ÜÃâÏµÍ³ÖØ×°
+https://blog.csdn.net/qq_22122811/article/details/80538205  //ÈçºÎ²é¿´UbuntuµÄÏµÍ³ÄÚ´æµÈĞÅÏ¢
+https://jingyan.baidu.com/article/fd8044fa1e74035031137ae0.html  //ubuntuÔõÃ´ÇĞ»»µ½rootÓÃ»§,ÇĞ»»µ½rootÕËºÅ·½·¨
+https://blog.csdn.net/zsgcsdn/article/details/78909672  //ubuntu£¨linux£©ÃüÁîĞĞÄ£Ê½ÏÂÈçºÎ¹ÒÔØUÅÌ
+https://blog.csdn.net/weixin_44689414/article/details/99000323  //°²×°Ë«ÏµÍ³£¬±ä³ÉË«ÏµÍ³£¡°²×°¶àÒ»¸ölinux(ubantu)²Ù×÷ÏµÍ³
+https://zhidao.baidu.com/question/307595912.html  //ÈçºÎ¶ÔDÅÌ½øĞĞÖØĞÂ·ÖÇø
+https://blog.csdn.net/yy1209357299/article/details/89874661 //UbuntuÏµÍ³¹ÒÔØUÅÌ
+https://blog.csdn.net/kh766200466/article/details/91356092  //ubuntu ÏµÍ³±¸·İ  *************************
+https://www.cnblogs.com/masbay/p/10745170.html   //windows10°²×°ubuntuË«ÏµÍ³½Ì³Ì£¨¾ø¶ÔÊ·ÉÏ×îÏêÏ¸£©
+https://blog.csdn.net/weixin_42990789/article/details/84675710  //UbuntuÏµÍ³ÏÂĞ¶ÔØÈí¼ş
+https://www.cnblogs.com/xiumuzidiao/p/10739171.html  //UbuntuÈçºÎ¹ÒÔØUÅÌ
