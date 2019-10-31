@@ -143,3 +143,11 @@ https://blog.csdn.net/u012104219/article/details/79125771 //´øÄãÍæ×ªLinuxÃüÁîĞĞ£
 https://man.linuxde.net  //LinuxÃüÁî´óÈ«
 https://www.runoob.com/linux/linux-command-manual.html  //Linux ÃüÁî´óÈ«
 https://www.cnblogs.com/luotingliang/p/7251496.html    //Ubuntu ÏÂÈçºÎ²é¿´ÒÑ°²×°µÄÈí¼ş
+https://www.cnblogs.com/rungang/p/11404779.html  //ubantuÏÂlinuxµÄÃüÁîÓë²Ù×÷ *****
+https://blog.csdn.net/zsgcsdn/article/details/78909672  //ubuntu£¨linux£©ÃüÁîĞĞÄ£Ê½ÏÂÈçºÎ¹ÒÔØUÅÌ
+https://www.cnblogs.com/rungang/p/11404779.html   //ubantuÏÂlinuxµÄÃüÁîÓë²Ù×÷
+https://blog.csdn.net/Graceying/article/details/100894526 //UbuntuÖĞÔËĞĞdpkg --listºóÁĞ±íÏÔÊ¾²»ÍêÈ«
+https://blog.csdn.net/yph001/article/details/80177154  //ubuntu ¼ì²âÍøÂç×´Ì¬ÃüÁî
+https://www.jianshu.com/p/a85570e14c4f  //ÍøÂç»ù´¡____½»»»»úºÍÂ·ÓÉÆ÷µÄÇø±ğ
+https://blog.csdn.net/caoshunxin01/article/details/79355268 //UbuntuÈçºÎ±¸·İºÍ»Ö¸´ÏµÍ³      ***********
+https://blog.csdn.net/linxi8693/article/details/80045601  //UbuntuÖĞdpkgÃüÁî
