@@ -151,3 +151,6 @@ https://blog.csdn.net/yph001/article/details/80177154  //ubuntu 检测网络状态命令
 https://www.jianshu.com/p/a85570e14c4f  //网络基础____交换机和路由器的区别
 https://blog.csdn.net/caoshunxin01/article/details/79355268 //Ubuntu如何备份和恢复系统      ***********
 https://blog.csdn.net/linxi8693/article/details/80045601  //Ubuntu中dpkg命令
+https://blog.csdn.net/heart_1014/article/details/54016687  //解决安装Ubuntu后无引导的方法
+https://blog.csdn.net/hunter___/article/details/89020229 //搬：Ubuntu系统全盘备份（亲测可用）******
+https://blog.csdn.net/sty1023750281/article/details/80877500  //Ubuntu系统全盘备份（亲测可用） ****
