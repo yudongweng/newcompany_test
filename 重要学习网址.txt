@@ -154,3 +154,10 @@ https://blog.csdn.net/linxi8693/article/details/80045601  //Ubuntu中dpkg命令
 https://blog.csdn.net/heart_1014/article/details/54016687  //解决安装Ubuntu后无引导的方法
 https://blog.csdn.net/hunter___/article/details/89020229 //搬：Ubuntu系统全盘备份（亲测可用）******
 https://blog.csdn.net/sty1023750281/article/details/80877500  //Ubuntu系统全盘备份（亲测可用） ****
+https://blog.csdn.net/u011304615/article/details/70919711 //ubuntu16.04 查看内核，升级内核，删除内核，切换内核
+https://usn.ubuntu.com/3903-2/ //ubuntu内核
+https://usn.ubuntu.com/3903-2/ //无忧论坛
+https://blog.csdn.net/lu_embedded/article/details/58703899   //利用Clonezilla备份还原Linux系统
+https://blog.csdn.net/xietansheng/article/details/80044644  //Linux系统 apt-get 命令的使用：安装、更新、卸载软件包
+https://blog.csdn.net/gatieme/article/details/50989257  //IP地址、子网掩码、网络号、主机号、网络地址、主机地址以及ip段/数字-如192.168.0.1/24是什么意思?
+https://blog.csdn.net/flyfrommath/article/details/82658716  //浅谈交换机和路由器的区别   ****
