@@ -57,7 +57,7 @@ https://blog.csdn.net/youshijian99/article/details/79679783 //VS C++ Ïß³ÌÆªÖ®Ò»´
 https://www.jb51.net/article/151420.htm //C++¶àÏß³ÌÖĞµÄËøºÍÌõ¼ş±äÁ¿Ê¹ÓÃ½Ì³Ì
 https://segmentfault.com/a/1190000016201729 //[c++11]¶àÏß³Ì±à³Ì(Èı)¡ª¡ª¾ºÕùÌõ¼şÓë»¥³âËø
 https://blog.csdn.net/sevenchrist/article/details/52128182 //VS2013Ìí¼ÓÊ¹ÓÃlibµÄ·½·¨
-https://www.cnblogs.com/yanwenxiong/p/5011383.html  //VSÖĞ¹¤³ÌµÄ¡°ÒÀÀµ¡±£¬¡°¿âÄ¿Â¼¡±£¬¡°°üº¬Ä¿Â¼¡±
+https://www.cnblogs.com/yanwenxiong/p/5011383.html  //VSÖĞ¹¤³ÌµÄ¡°ÒÀÀµ¡±£¬¡°¿âÄ¿Â¼¡±£¬¡°°üº¬Ä¿Â¼¡±   
 https://blog.csdn.net/qq_25188995/article/details/81490081 //Qtcreator opencv ÏÔÊ¾Í¼Æ¬
 https://www.yangshengliang.com/os/windows-ji-qiao/1424.html  //google chrome ä¯ÀÀÆ÷Ö÷Ò³±»2345½Ù³ÖÔõÃ´°ì?²»ÊÇĞ¶ÔØ ³¹µ×½â¾ö(ÆäËûä¯ÀÀÆ÷Ò²ÓĞĞ§)
 https://zhidao.baidu.com/question/537193960.html //Æ½Ãæ¶ÈÓëÇÌÇú¶ÈµÄ²âÁ¿·½·¨ÊÇÊ²Ã´£¿Çø±ğµãÊÇÊ²Ã´£¿
@@ -72,7 +72,7 @@ https://www.cnblogs.com/roadofstudy/p/7660583.html  //ÉÏ´«±¾µØÎÄ¼şµ½github²Ö¿â»ù
 https://blog.csdn.net/u012915636/article/details/81978140 //void operator()() const µÄ±à³ÌÊµ¼ù
 https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·½Ê½
 https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT¶àÏß³Ì¡ªÖ÷½çÃæ¿¨ËÀ½â¾ö·½°¸
-https://blog.csdn.net/linraise/article/details/41318261 //VS2013Ìí¼ÓÒÀÀµÏî
+https://blog.csdn.net/linraise/article/details/41318261 //VS2013Ìí¼ÓÒÀÀµÏî   ******************
 https://www.runoob.com/cplusplus/cpp-preprocessor.html //c++Ô¤´¦ÀíÆ÷
 https://blog.csdn.net/lyztyycode/article/details/81326699 //c++Ğéº¯ÊıÏê½â£¨Äã¿Ï¶¨¶®ÁË£©
 https://blog.csdn.net/qq_28234213/article/details/72853797 //C++Ğéº¯ÊıÊµÏÖ¶àÌ¬
@@ -161,3 +161,24 @@ https://blog.csdn.net/lu_embedded/article/details/58703899   //ÀûÓÃClonezilla±¸·
 https://blog.csdn.net/xietansheng/article/details/80044644  //LinuxÏµÍ³ apt-get ÃüÁîµÄÊ¹ÓÃ£º°²×°¡¢¸üĞÂ¡¢Ğ¶ÔØÈí¼ş°ü
 https://blog.csdn.net/gatieme/article/details/50989257  //IPµØÖ·¡¢×ÓÍøÑÚÂë¡¢ÍøÂçºÅ¡¢Ö÷»úºÅ¡¢ÍøÂçµØÖ·¡¢Ö÷»úµØÖ·ÒÔ¼°ip¶Î/Êı×Ö-Èç192.168.0.1/24ÊÇÊ²Ã´ÒâË¼?
 https://blog.csdn.net/flyfrommath/article/details/82658716  //Ç³Ì¸½»»»»úºÍÂ·ÓÉÆ÷µÄÇø±ğ   ****
+https://jingyan.baidu.com/article/92255446ebe845851748f445.html  //Â·ÓÉÆ÷ºÍ½»»»»úÓĞÊ²Ã´Çø±ğ
+https://blog.csdn.net/qq_15029743/article/details/79733960 //º£¿µÍşÊÓÍøÂçÉãÏñÍ·SDKÖĞDemoµÄ¶ş´Î¿ª·¢£¨ÔËĞĞ£© ****
+https://blog.csdn.net/Jack_Sarah/article/details/79994724 //¹ØÓÚ¹¤ÒµÏà»ú±à³Ìµ÷ÓÃSDK¶ş´Î¿ª·¢µÄÒ»Ğ©²½ÖèÁ÷³Ì
+https://blog.csdn.net/KYJL888/article/details/69367507 //¡¾ÊÓ¾õ-ÉãÏñ»ú2¡¿opencv µ÷ÓÃ¹¤ÒµÉãÏñ»ú£¨GigE½Ó¿ÚÏêÏ¸ËµÃ÷£©
+https://blog.csdn.net/KYJL888/article/details/70786500  //[¼ÆËã»úÊÓ¾õ]ubuntu16.04°²×°opencv3.1.0+Qt5.6.0
+https://blog.csdn.net/weixin_43593903/article/details/83686594 //¹¤ÒµÏà»ú½Ó¿ÚÊ¹ÓÃ    
+https://www.sohu.com/a/211057307_693868  //¹¤ÒµÏà»ú±à³ÌÁ÷³Ì¼°SDK½Ó¿ÚÊ¹ÓÃ»ã×Ü
+https://blog.csdn.net/weixin_39699494/article/details/78019042 //Ê¹ÓÃpylon¹¹½¨Ó¦ÓÃ³ÌĞòµÄ³£¼ûÉèÖÃ£¨»ù±¾ÊÇ»·¾³ÉèÖÃ£©
+https://blog.csdn.net/weixin_37115192/article/details/73729758  //Basler Pylon 5 ºÍHalcon 10 ÔÚ Qt 5.9.0 Creator 4.3.1
+https://blog.csdn.net/u010244583/article/details/40404323  //¹ØÓÚbaslerÏà»úsampleÊ¹ÓÃµÄÒ»Ğ©ËµÃ÷
+https://blog.csdn.net/tonovate/article/details/78747921 //ÔÙÉúÁú»Ö¸´UbuntuÖ®ºóµÄgrubÒıµ¼ĞŞ¸´·½·¨
+https://blog.csdn.net/weixin_37251044/article/details/82221584  //¶àÏµÍ³º¬Ubuntu£¬grub¿ª»úÒıµ¼ÏîÒıµ¼ÏòĞŞ¸´£¨Boot Repair£©
+https://blog.csdn.net/qq_38368548/article/details/88078858  //ubuntuÏµÍ³Òıµ¼½øÈëgrub£¬ÎŞ·¨½øÈëÏµÍ³ÇĞ»»½çÃæ ******
+https://blog.csdn.net/gatieme/article/details/59127020  //GrubÒıµ¼ÏîĞŞ¸´Ïê½â
+https://blog.csdn.net/wzz678678/article/details/80644181 //°²×°ÍêUbuntuÆô¶¯Ê±×Ô¶¯½øÈëgrubÃüÁîĞĞÄ£Ê½µÄ½â¾ö°ì·¨
+http://www.zzvips.com/article/1065.html  //Í¨¹ıUÅÌÎªUbuntu¸üĞÂGRUB»Ö¸´ÏµÍ³Òıµ¼µÄ½Ì³Ì   *****
+https://blog.csdn.net/zeg635702733/article/details/53992224  //Ubuntu Linux±¸·İÏµÍ³²¢»¹Ô­µ½ÁíÒ»¿éÓ²ÅÌÉÏ(Ó²ÅÌ´óĞ¡¾ù¿É²»Ò»ÖÂ)  ***
+https://blog.csdn.net/Carina_Cao/article/details/90270389   //ubuntu16.04Ê¹ÓÃGParted¶Ô/¸ùÄ¿Â¼À©Èİ
+https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/   //ÔÙÉúÁúsourceforge_liveCD
+https://www.bbsmax.com/A/kPzOZW87dx/   //YUV²ÉÑù¸ñÊ½ÖĞµÄYUV444,YUV422,YUV420Àí½â
+https://blog.csdn.net/jerrytong/article/details/5658818 //YUV420¼°YUV422¸ñÊ½µÄ²É¼¯´æ´¢·½Ê½
