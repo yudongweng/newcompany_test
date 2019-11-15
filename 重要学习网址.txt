@@ -182,3 +182,4 @@ https://blog.csdn.net/Carina_Cao/article/details/90270389   //ubuntu16.04使用GPa
 https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/   //再生龙sourceforge_liveCD
 https://www.bbsmax.com/A/kPzOZW87dx/   //YUV采样格式中的YUV444,YUV422,YUV420理解
 https://blog.csdn.net/jerrytong/article/details/5658818 //YUV420及YUV422格式的采集存储方式
+https://blog.csdn.net/rabbit729/article/details/7832338  //RGB、YUY2、YUYV、YVYU、UYVY与AYUV
