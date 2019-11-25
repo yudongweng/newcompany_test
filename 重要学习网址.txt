@@ -183,3 +183,8 @@ https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/   //再
 https://www.bbsmax.com/A/kPzOZW87dx/   //YUV采样格式中的YUV444,YUV422,YUV420理解
 https://blog.csdn.net/jerrytong/article/details/5658818 //YUV420及YUV422格式的采集存储方式
 https://blog.csdn.net/rabbit729/article/details/7832338  //RGB、YUY2、YUYV、YVYU、UYVY与AYUV
+https://blog.csdn.net/hp_cpp/article/details/80338116   //Qt5 利用QJson从文件读取Json并解析
+https://blog.csdn.net/gaoenyang760525/article/details/82192205  //QT中读写ini文件
+https://www.jianshu.com/p/2f05459a8523   //使用Qt读写JSON文件(一)——简单的写入文件
+https://www.cnblogs.com/sclu/p/11348723.html  //Qt读写json文件
+https://blog.csdn.net/wcc27857285/article/details/84615891  //C++ 引用Lib和Dll的方法总结
