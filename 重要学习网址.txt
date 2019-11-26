@@ -188,3 +188,8 @@ https://blog.csdn.net/gaoenyang760525/article/details/82192205  //QTÖĞ¶ÁĞ´iniÎÄ¼
 https://www.jianshu.com/p/2f05459a8523   //Ê¹ÓÃQt¶ÁĞ´JSONÎÄ¼ş(Ò»)¡ª¡ª¼òµ¥µÄĞ´ÈëÎÄ¼ş
 https://www.cnblogs.com/sclu/p/11348723.html  //Qt¶ÁĞ´jsonÎÄ¼ş
 https://blog.csdn.net/wcc27857285/article/details/84615891  //C++ ÒıÓÃLibºÍDllµÄ·½·¨×Ü½á
+https://blog.csdn.net/KS004/article/details/90105440   //VS2019¿ª·¢¼òµ¥µÄC/C++¶¯Ì¬Á´½Ó¿â²¢½øĞĞµ÷ÓÃ
+https://blog.csdn.net/Rocarrot/article/details/80446840   //¼òµ¥Linux/Ubuntu±¸·İ¿ËÂ¡·½·¨¡ªÔÙÉúÁúClonezilla
+http://clonezilla.nchc.org.tw/clonezilla-live/liveusb.php#windows-method-a  //Clonezilla ÔÙÉúıˆ
+http://tuxboot.nchc.org.tw/    //Tuxboot
+http://unetbootin.github.io/linux_download.html  //UNetbootin - Downloads for Linux
