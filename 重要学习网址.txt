@@ -193,3 +193,8 @@ https://blog.csdn.net/Rocarrot/article/details/80446840   //简单Linux/Ubuntu备份
 http://clonezilla.nchc.org.tw/clonezilla-live/liveusb.php#windows-method-a  //Clonezilla 再生龍
 http://tuxboot.nchc.org.tw/    //Tuxboot
 http://unetbootin.github.io/linux_download.html  //UNetbootin - Downloads for Linux
+https://blog.csdn.net/appleml/article/details/52829412  //cmake的一些基础知识
+https://blog.csdn.net/Stone_Wang_MZ/article/details/78523072   //指针形式的图像的保存与转换
+https://blog.csdn.net/weixin_30624825/article/details/99285352   //opencv从内存中读取图片
+https://blog.csdn.net/qq_38660394/article/details/80581383   //OpenCV+Ubuntu18.04环境搭建
+https://blog.csdn.net/Ding_0110M/article/details/88083741    //在ubuntu16.04下安装opencv3.4.5（超详细）
