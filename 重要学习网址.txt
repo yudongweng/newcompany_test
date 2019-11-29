@@ -1,4 +1,4 @@
-
+¡¾£»£»
 https://www.cnblogs.com/houjun/p/4802193.html  ¶àÏß³Ì¹ÜÀí£¬Ïß³Ì³ØµÄÊµÏÖ
 https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html vector½éÉÜ
 https://blog.csdn.net/weibo1230123/article/details/79116016 qt¶à´°¿ÚÊı¾İ´«µİ
@@ -198,3 +198,31 @@ https://blog.csdn.net/Stone_Wang_MZ/article/details/78523072   //Ö¸ÕëĞÎÊ½µÄÍ¼Ïñµ
 https://blog.csdn.net/weixin_30624825/article/details/99285352   //opencv´ÓÄÚ´æÖĞ¶ÁÈ¡Í¼Æ¬
 https://blog.csdn.net/qq_38660394/article/details/80581383   //OpenCV+Ubuntu18.04»·¾³´î½¨
 https://blog.csdn.net/Ding_0110M/article/details/88083741    //ÔÚubuntu16.04ÏÂ°²×°opencv3.4.5£¨³¬ÏêÏ¸£©
+https://blog.csdn.net/CAU_Ayao/article/details/83990246   //OpenCV°²×°libjasper-devÒÀÀµ°ü´íÎó£ºE: Unable to locate package libjasper-dev
+https://blog.csdn.net/wanzhen4330/article/details/82622664  //Ubuntu 16.04 + Qt 5.11 +opencv 3.4ÍêÃÀÅäÖÃ£¨Ç×²â£¬×î¼òµ¥ÍêÃÀµÄ·½·¨£©
+https://blog.csdn.net/zhangwei3210001/article/details/45041709  ///QLabel ×ÖÌå´óĞ¡¡¢ÑÕÉ«¡¢Í¼Æ¬µÄÓ¦ÓÃ£¨ÕûÀí£©
+https://blog.csdn.net/qq_24854861/article/details/79753674   //YUVÎÄ¼ş×ªopencvµÄMat¸ñÊ½²¢ÇÒÏÔÊ¾²¥·Å
+https://blog.csdn.net/nicai_xiaoqinxi/article/details/86030682   //QtCreator´úÂë¶ÔÆëµÄ·½·¨
+https://blog.csdn.net/zhouyelihua/article/details/31002607  //opencv²ÉÓÃÖ¸ÕëµÄ·½Ê½ÉèÖÃÍ¼ÏñÖĞµÄRGBÖµ
+https://blog.csdn.net/weixin_39746114/article/details/81110778  //opencvÑ§Ï°Ö®-----Ê¹ÓÃÖ¸Õë±éÀúÍ¼Ïñ
+https://blog.csdn.net/zhjm07054115/article/details/25502621  //OpenCVÑ§Ï°Ö®¶ş£º Ê¹ÓÃÖ¸Õë±éÀúÍ¼Ïñ
+https://blog.csdn.net/weixin_30624825/article/details/99285352   //opencv´ÓÄÚ´æÖĞ¶ÁÈ¡Í¼Æ¬
+https://blog.csdn.net/hust_bochu_xuchao/article/details/52710329    //opencv ½«ÄÚ´æÖĞÍ¼Æ¬¶ÁÈëµ½mat¾ØÕó
+https://blog.csdn.net/huaanxiang/article/details/76167458  //OpenCV´ò¿ª ÄÚ´æbufÖĞµÄÍ¼Æ¬
+https://blog.csdn.net/qq_32435729/article/details/77061946  //opencv¼ÓÔØÄÚ´æÖĞµÄÍ¼Æ¬Êı¾İ
+https://blog.csdn.net/b5w2p0/article/details/10973071   //OpenCV ´¦ÀíÄÚ´æÖĞµÄÍ¼ÏñÊı¾İ****************
+https://blog.csdn.net/qq_32435729/article/details/77061946   //opencv¼ÓÔØÄÚ´æÖĞµÄÍ¼Æ¬Êı¾İ
+https://blog.csdn.net/yuzx2008/article/details/50218693  //opencv ´ÓÄÚ´æ¼ÓÔØÍ¼Ïñ
+https://blog.csdn.net/tajon1226/article/details/100034792   //YUV422×ª»Ò¶ÈÍ¼Êı×é×ªopencv Mat
+https://blog.csdn.net/jobbofhe/article/details/84252028   //¡¾opencv-3¡¿YUV×ªopencv Mat¸ñÊ½
+https://blog.csdn.net/abcSunl/article/details/76146881   //cv::Matµ½YUV420µÄ×ª»»
+https://blog.csdn.net/jobbofhe/article/details/84252028  //¡¾opencv-3¡¿YUV×ªopencv Mat¸ñÊ½
+https://blog.csdn.net/qq_24854861/article/details/79753674   //YUVÎÄ¼ş×ªopencvµÄMat¸ñÊ½²¢ÇÒÏÔÊ¾²¥·Å*****
+https://blog.csdn.net/tajon1226/article/details/100034792   //YUV422×ª»Ò¶ÈÍ¼Êı×é×ªopencv Mat
+https://blog.csdn.net/han542672919/article/details/45199423   //YUV422P£¨UYVY£©×ª»»µ½RGB , »ùÓÚOpencv2.4.10
+https://www.cnblogs.com/aheng365/p/10068999.html    //»ùÓÚopencv µÄ YUV420 ÓëMat»¥×ª
+https://www.cnblogs.com/k5bg/p/11136926.html   //OpenCV2:×Ü½áÆª cv::Mat Àà
+https://blog.csdn.net/jian7223157/article/details/39521795   //yuy2£¨yuyv£©µ½ yuv420 semi planer¸ñÊ½µÄ×ª»»
+https://blog.csdn.net/qq_25005909/article/details/79480935   //YUV422 YUV420 Planar Semi-PlanarÏê½â
+https://blog.csdn.net/taotongning/article/details/86472354  //YUV422 YUV420 Planar \ Semi-Planar \ Interleaved¸ñÊ½Ïê½â
+https://blog.csdn.net/x348722662/article/details/53445136    //QtÖ®ÏÔÊ¾yuvÊı¾İÍ¼Ïñ
