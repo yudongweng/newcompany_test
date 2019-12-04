@@ -1,4 +1,4 @@
-【；；
+
 https://www.cnblogs.com/houjun/p/4802193.html  多线程管理，线程池的实现
 https://www.runoob.com/w3cnote/cpp-vector-container-analysis.html vector介绍
 https://blog.csdn.net/weibo1230123/article/details/79116016 qt多窗口数据传递
@@ -226,3 +226,6 @@ https://blog.csdn.net/jian7223157/article/details/39521795   //yuy2（yuyv）到 yu
 https://blog.csdn.net/qq_25005909/article/details/79480935   //YUV422 YUV420 Planar Semi-Planar详解
 https://blog.csdn.net/taotongning/article/details/86472354  //YUV422 YUV420 Planar \ Semi-Planar \ Interleaved格式详解
 https://blog.csdn.net/x348722662/article/details/53445136    //Qt之显示yuv数据图像
+https://blog.csdn.net/xiaofengsheng/article/details/4814709   //OpenCV: OpenCV中IplImage图像格式******************
+https://blog.csdn.net/lijiayu2015/article/details/52438160   //Mat和IplImage相互转换
+https://blog.csdn.net/a102111/article/details/9326785  //图片的pitch****
