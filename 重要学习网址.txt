@@ -196,7 +196,7 @@ http://unetbootin.github.io/linux_download.html  //UNetbootin - Downloads for Li
 https://blog.csdn.net/appleml/article/details/52829412  //cmake的一些基础知识
 https://blog.csdn.net/Stone_Wang_MZ/article/details/78523072   //指针形式的图像的保存与转换
 https://blog.csdn.net/weixin_30624825/article/details/99285352   //opencv从内存中读取图片
-https://blog.csdn.net/qq_38660394/article/details/80581383   //OpenCV+Ubuntu18.04环境搭建
+https://blog.csdn.net/qq_38660394/article/details/80581383   //OpenCV+Ubuntu18.04环境搭建   *******
 https://blog.csdn.net/Ding_0110M/article/details/88083741    //在ubuntu16.04下安装opencv3.4.5（超详细）
 https://blog.csdn.net/CAU_Ayao/article/details/83990246   //OpenCV安装libjasper-dev依赖包错误：E: Unable to locate package libjasper-dev
 https://blog.csdn.net/wanzhen4330/article/details/82622664  //Ubuntu 16.04 + Qt 5.11 +opencv 3.4完美配置（亲测，最简单完美的方法）
@@ -237,3 +237,24 @@ https://blog.csdn.net/rasin_wu/article/details/80095415   //Opencv Mat类成员函数
 https://blog.csdn.net/guduruyu/article/details/70837779  //【OpenCV3】图像通道分离与合并——cv::split()与cv::merge()详解*****
 https://blog.csdn.net/yuan13091324/article/details/45743605  //cv::Mat 图像拷贝、复制的问题
 https://blog.csdn.net/dielucui7698/article/details/101400225   //yuv 图像里的stride和plane的解释
+https://www.cnblogs.com/daner1257/p/10767570.html  //像素数据YUV简介与数据存储格式介绍
+https://blog.csdn.net/u014260892/article/details/51883723  //谈谈RGB、YUY2、YUYV、YVYU、UYVY、AYUV  *** 
+https://wenku.baidu.com/view/b2ad3dbe960590c69ec37681.html    //YUV格式的解析(绝对解惑篇)
+https://blog.csdn.net/edmond999/article/details/78748489   //读取yuv并转化为RGB数据在Opencv中打开显示  ****
+https://blog.51cto.com/7335580/2060069   //详解YUV系列（二）--YUV422
+https://blog.csdn.net/bichenggui/article/details/4600153   //c++文件流基本用法(fstream, ifstream, ostream)
+https://blog.csdn.net/zyex1108/article/details/52744870   //总结： C++ 中如何把输出结果写入到文件中
+https://blog.csdn.net/insistGoGo/article/details/6639570     //C++_文件读写**********
+https://www.bbsmax.com/A/qVdewn0AJP/   //YUV数据YUY2到I420*****
+http://blog.chinaunix.net/uid-26000296-id-5472302.html  //YUV格式详解*********************
+
+//******************************************************//
+https://blog.csdn.net/weixin_42732240/article/details/88582660   //opencv（七）调用摄像头采集图像（原创）  
+https://blog.csdn.net/u013351270/article/details/76072312    //Opencv 打开网络相机时的一些参数设置
+https://blog.csdn.net/ywxk1314/article/details/80054511   //OpenCV——读取摄像头并处理图像
+https://blog.csdn.net/cyf15238622067/article/details/82767214   //Opencv直接使用YUV视频源****
+http://blog.sina.com.cn/s/blog_69d0ca8d0100qsqe.html    //Opencv实现视频采集 
+https://bbs.csdn.net/topics/390542354  //opencv如何从内存读取图像数据
+http://c.biancheng.net/view/1823.html   //Qt信号与槽机制详解
+http://c.biancheng.net/view/1879.html    //Qt二进制文件操作（读和写）详解   ***
+http://download.qt.io/archive/qt/  //Qt Downloads
