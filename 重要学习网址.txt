@@ -258,3 +258,6 @@ https://bbs.csdn.net/topics/390542354  //opencv如何从内存读取图像数据
 http://c.biancheng.net/view/1823.html   //Qt信号与槽机制详解
 http://c.biancheng.net/view/1879.html    //Qt二进制文件操作（读和写）详解   ***
 http://download.qt.io/archive/qt/  //Qt Downloads
+http://c.biancheng.net/view/170.html   //C++ 程序到C程序的翻译  *****
+https://blog.csdn.net/lms1008611/article/details/81408236   //C++中类的(static)静态成员变量与(static)静态成员函数****
+https://blog.csdn.net/baiyq369/article/details/54926983   //C++各种构造函数的写法****
