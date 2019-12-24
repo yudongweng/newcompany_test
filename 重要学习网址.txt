@@ -257,7 +257,14 @@ http://blog.sina.com.cn/s/blog_69d0ca8d0100qsqe.html    //Opencv实现视频采集
 https://bbs.csdn.net/topics/390542354  //opencv如何从内存读取图像数据
 http://c.biancheng.net/view/1823.html   //Qt信号与槽机制详解
 http://c.biancheng.net/view/1879.html    //Qt二进制文件操作（读和写）详解   ***
-http://download.qt.io/archive/qt/  //Qt Downloads
+http://download.qt.io/archive/qt/      //Qt Downloads
 http://c.biancheng.net/view/170.html   //C++ 程序到C程序的翻译  *****
 https://blog.csdn.net/lms1008611/article/details/81408236   //C++中类的(static)静态成员变量与(static)静态成员函数****
-https://blog.csdn.net/baiyq369/article/details/54926983   //C++各种构造函数的写法****
+https://blog.csdn.net/baiyq369/article/details/54926983   //C++各种构造函数的写法******
+https://blog.csdn.net/daiyutage/article/details/8604720  //深入 char * ,char ** ,char a[ ] ,char *a[] 内核*****
+https://fzheng.me/2016/11/22/vs2017_cmake_trial/       //Visual Studio 2017 RC CMake 支持功能试用
+https://www.jianshu.com/p/89f0836d9f33      //cmake从入门到精通（一）
+https://blog.csdn.net/qccz123456/article/details/80639817   //cmake简明教程-半小时从入门到精通
+https://blog.csdn.net/u011808673/article/details/80811998   //C++多线程编程*********
+https://blog.csdn.net/xuyongbeijing2008/article/details/8584314    //virtual IsEmpty() const=0中的const有什么用？
+https://blog.csdn.net/qq_36024364/article/details/95470718    //Ubuntu环境下配置巴斯勒相机及相机测试
