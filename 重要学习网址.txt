@@ -268,3 +268,15 @@ https://blog.csdn.net/qccz123456/article/details/80639817   //cmake简明教程-半小
 https://blog.csdn.net/u011808673/article/details/80811998   //C++多线程编程*********
 https://blog.csdn.net/xuyongbeijing2008/article/details/8584314    //virtual IsEmpty() const=0中的const有什么用？
 https://blog.csdn.net/qq_36024364/article/details/95470718    //Ubuntu环境下配置巴斯勒相机及相机测试
+https://blog.csdn.net/jack_20/article/details/70053879   //C++中break、continue、return的区别  *****
+https://www.cnblogs.com/liangxiaofeng/p/6943594.html   //论YUV422(YUYV)与YUV420相互转换******
+https://blog.csdn.net/weixin_38293850/article/details/90900880   //Qt qml 实现日期时间的实时刷新显示*****
+https://blog.csdn.net/dianyimo9099/article/details/101884105  //SDI，ASI，HDMI，DP等接口的区别*****
+https://wenku.baidu.com/view/45169643e53a580216fcfecb.html   //HD-SDI信号质量标准与测试诊断方法****
+https://blog.csdn.net/lv0918_qian/article/details/81745723   //C++11并发编程-条件变量(condition_variable)详解***
+https://blog.csdn.net/playboy_lei/article/details/50560786   //无类型指针void*的学习与使用  **
+https://www.douban.com/note/627307366/    //4K 之 2SI**
+http://www.sohu.com/a/250267179_99945162   //4K监视器的市场分析
+https://blog.csdn.net/a52228254/article/details/77608362?utm_source=blogxgwz7   //4k图像分割技术
+https://blog.csdn.net/aiwoziji13/article/details/7330333  //"undefined reference to" 问题解决方法****
+https://blog.csdn.net/Mr0cheng/article/details/83305356  //linux内核、驱动和硬件之间的关系和通信***
