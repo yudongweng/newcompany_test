@@ -280,3 +280,15 @@ http://www.sohu.com/a/250267179_99945162   //4K监视器的市场分析
 https://blog.csdn.net/a52228254/article/details/77608362?utm_source=blogxgwz7   //4k图像分割技术
 https://blog.csdn.net/aiwoziji13/article/details/7330333  //"undefined reference to" 问题解决方法****
 https://blog.csdn.net/Mr0cheng/article/details/83305356  //linux内核、驱动和硬件之间的关系和通信***
+https://blog.csdn.net/xuleisdjn/article/details/51453292   //CRC 32 校验
+https://blog.csdn.net/leumber/article/details/54311811  //CRC16常见几个标准的算法及C语言实现  包括CRC-32
+https://blog.csdn.net/z735640642/article/details/84307334   //CRC校验原理及步骤****
+http://www.blackmagicdesign.com/cn/products/decklink/howtobuy/   //BlackMagic design decklink 中国代理商
+http://www.blackmagicdesign.com/cn/products/decklink/techspecs/W-DLK-31   //BlackMagic design 产品规格介绍***
+https://stackoverflow.com/questions/56327238/decklink-sdk-qtquick   //decklink SDK & QtQuick
+http://www.fourcc.org/yuv.php  //YUV pixel formats****
+https://developer.apple.com/library/archive/technotes/tn2162/_index.html   //Uncompressed Y′CbCr Video in QuickTime Files
+
+http://c.biancheng.net/view/302.html  //C++二进制文件的读取和写入（精华版） *****
+https://bbs.csdn.net/topics/370071569 //C++练习,二进制文件读写,自由读取文件头和文件尾
+https://www.jianshu.com/p/cfb7df8d3a8b  //按位与、或、非、异或总结****
