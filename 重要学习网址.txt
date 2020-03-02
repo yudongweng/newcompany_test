@@ -292,3 +292,6 @@ https://developer.apple.com/library/archive/technotes/tn2162/_index.html   //Unc
 http://c.biancheng.net/view/302.html  //C++二进制文件的读取和写入（精华版） *****
 https://bbs.csdn.net/topics/370071569 //C++练习,二进制文件读写,自由读取文件头和文件尾
 https://www.jianshu.com/p/cfb7df8d3a8b  //按位与、或、非、异或总结****
+https://blog.csdn.net/tjcwt2011/article/details/81125912  //C语言详解 FILE文件操作 *****
+https://blog.csdn.net/yzf279533105/article/details/90605172   //C++原子操作 atomic的使用及效率
+https://blog.csdn.net/li1615882553/article/details/85342101?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task  //C++11多线程thread参数传递问题
