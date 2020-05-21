@@ -293,5 +293,41 @@ http://c.biancheng.net/view/302.html  //C++二进制文件的读取和写入（精华版） ****
 https://bbs.csdn.net/topics/370071569 //C++练习,二进制文件读写,自由读取文件头和文件尾
 https://www.jianshu.com/p/cfb7df8d3a8b  //按位与、或、非、异或总结****
 https://blog.csdn.net/tjcwt2011/article/details/81125912  //C语言详解 FILE文件操作 *****
-https://blog.csdn.net/yzf279533105/article/details/90605172   //C++原子操作 atomic的使用及效率
+https://blog.csdn.net/yzf279533105/article/details/90605172   //C++原子操作 atomic的使用及效率99
 https://blog.csdn.net/li1615882553/article/details/85342101?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task  //C++11多线程thread参数传递问题
+https://docs.microsoft.com/en-us/windows-hardware/drivers/display/4-2-2-video-pixel-formats?redirectedfrom=MSDN   //4:2:2 Video Pixel Formats*microsoft
+https://blog.csdn.net/Real003/article/details/89471338  //Vivado SMPTE SD/HD/3G-SD学习笔记
+
+https://tool.oschina.net/hexconvert/   //在线进制转换
+http://www.ip33.com/crc.html  //CRC（循环冗余校验）在线计算
+
+https://www.cnblogs.com/chorulex/p/7660187.html  //C++11 double转化为string *******************
+https://blog.csdn.net/p942005405/article/details/84645369  //c++ 之 std::this_thread::yield 与std::this_thread::sleep_for
+https://blog.csdn.net/WizardtoH/article/details/81393485  //《深入应用C++11》笔记-线程std::thread
+https://blog.csdn.net/WizardtoH/article/details/81452066?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task   //《深入应用C++11》笔记-互斥量std::mutex、锁std::lock_guard
+
+
+https://blog.csdn.net/luo617/article/details/81321721  //ubuntu开机出现grub 解决办法**************************************
+https://www.jianshu.com/p/b87e278024d6 //ubuntu 16.04查看、更换、删除内核 ************
+https://blog.csdn.net/someby/article/details/82078557   //ubuntu命令查看CPU信息*********
+https://blog.csdn.net/zhengchaooo/article/details/79500055  //Ubuntu下查看CPU、内存和硬盘详细信息
+https://blog.csdn.net/qq_16325507/article/details/82750325  //ubuntu下mysql的安装及初始配置
+https://www.cnblogs.com/Tdazheng/p/10742929.html  //Ubuntu中安装MySQL，更改默认用户密码
+
+
+https://www.sqlshack.com/how-to-install-mysql-on-ubuntu-18-04/  //How to install MySQL on Ubuntu 18.04
+https://itsfoss.com/install-mysql-ubuntu/    //How to Install MySQL in Ubuntu Linux
+https://www.cnblogs.com/wanghao-boke/p/11020178.html  //Ubuntu安装mysql步骤
+https://www.cnblogs.com/alan319/p/10556596.html     //Ubuntu下安装指定版本的mysql
+https://phoenixnap.com/kb/how-to-install-mysql-on-ubuntu-18-04   //How To Install MySQL 8.0 On Ubuntu 18.04
+https://askubuntu.com/questions/265079/how-can-i-install-specific-version-of-mysql  //How can I install specific version of MYSQL
+https://www.cnblogs.com/jackwang822/p/5465677.html   //Ubuntu下mysql的安装以及简单的命令操作
+https://blog.csdn.net/darennet/article/details/8433223   //数字视频1080i和1080p区别***************************
+
+https://blog.csdn.net/charleslei/article/details/96854728   //SDI视频、音频标准************************************************************************************
+https://blog.csdn.net/u012803067/article/details/70885996   //qt中路径的解释
+https://forum.blackmagicdesign.com/viewtopic.php?f=12&t=109030&p=602027&hilit=frame#p602027   //8K Pro SDI output 3G levelB -- dual link payload ID ?
+https://forum.blackmagicdesign.com/viewtopic.php?f=12&t=100725&p=558140&hilit=frame#p558140   //Time code - synchronized capture 4 inputs
+https://www.xuebuyuan.com/3213122.html   //int **p用法
+
+https://forum.blackmagicdesign.com/viewtopic.php?f=12&t=99375&p=554556&hilit=device#p554556 //BMD 2CHN
