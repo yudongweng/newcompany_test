@@ -331,3 +331,5 @@ https://forum.blackmagicdesign.com/viewtopic.php?f=12&t=100725&p=558140&hilit=fr
 https://www.xuebuyuan.com/3213122.html   //int **p用法
 
 https://forum.blackmagicdesign.com/viewtopic.php?f=12&t=99375&p=554556&hilit=device#p554556 //BMD 2CHN
+https://blog.csdn.net/weixin_41923658/article/details/88066916   //数组指针和指针数组的区别
+https://www.cnblogs.com/cina33blogs/p/7250504.html  //取消 git init 命令
